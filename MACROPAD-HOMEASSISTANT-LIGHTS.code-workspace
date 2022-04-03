@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Volumes/CIRCUITPY"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"circuitpython.board.version": "7.2.4",
+		"circuitpython.board.vid": "0x239A",
+		"circuitpython.board.pid": "0x8108",
+		"python.linting.pylintEnabled": false,
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportMissingModuleSource": "none"
+		},
+		"python.analysis.extraPaths": [
+			"/Users/guydineen/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.16/boards/0x239A/0x8108",
+			"/Users/guydineen/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.16/stubs",
+			"/Users/guydineen/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20220402/adafruit-circuitpython-bundle-py-20220402/lib"
+		]
+	}
+}
