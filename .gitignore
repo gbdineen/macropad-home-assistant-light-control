@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+MACROPAD-HOMEASSISTANT-LIGHTS.code-workspace
 
 # C extensions
 *.so
