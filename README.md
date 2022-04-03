@@ -1,0 +1,1 @@
+# macropad-home-assistant-light-control
